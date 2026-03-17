@@ -16,6 +16,8 @@ const Contact = () => {
             </p>
             <h4>Education</h4>
             <p>Bachelor's Degree — Muhammad Ali Jinnah University</p>
+            <p>Intermediate — Superior Science College</p>
+            <p>Matriculation — Primrose Public School</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
