@@ -13,6 +13,7 @@ declare module 'gsap-trial/ScrollSmoother' {
   export class ScrollSmoother {
     static create(vars: any): ScrollSmoother;
     static get(): ScrollSmoother;
+    static refresh(soft?: boolean): void;
     scrollTop(value: number): void;
     scrollTo(target: any, smooth?: boolean, position?: string): void;
     paused(value: boolean): void;
