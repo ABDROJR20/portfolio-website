@@ -9,9 +9,9 @@ const Landing = ({ children }: PropsWithChildren) => {
           <div className="landing-intro">
             <h2>Hello! I'm</h2>
             <h1>
-              RAJESH
+              ABDULLAH
               <br />
-              <span>CHITYAL</span>
+              <span>MUNAWAR</span>
             </h1>
           </div>
           <div className="landing-info">
@@ -23,6 +23,7 @@ const Landing = ({ children }: PropsWithChildren) => {
             <h2>
               <div className="landing-h2-info">Engineer</div>
               <div className="landing-h2-info-1">Developer</div>
+              
             </h2>
           </div>
         </div>
