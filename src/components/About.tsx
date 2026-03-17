@@ -6,13 +6,11 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am Abdullah Munawar, a passionate full-stack developer who loves turning
-          complex problems into intuitive, user-friendly web experiences. I specialize
-          in building responsive web applications using React.js, with a strong
-          foundation in JavaScript, WordPress, and modern UI/UX practices. With a
-          background in both development and design, I bring a unique creative edge
-          to every project — always aiming to create products that are beautiful,
-          functional, and user-centric.
+         I am Abdullah Munawar, a Full Stack Developer, WordPress Developer, and Graphic Designer focused on building complete digital solutions — from UI/UX design to scalable web applications.
+
+I work with Next.js, React.js, Node.js, MongoDB, and WordPress, combining strong development skills with creative design to deliver clean, responsive, and user-friendly products.
+
+I enjoy developing end-to-end solutions and continuously improving my skills in advanced MERN stack, backend architecture, and DevOps.
         </p>
       </div>
     </div>
