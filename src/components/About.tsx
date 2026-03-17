@@ -6,7 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am Abdullah Munawar, a passionate frontend developer who loves turning
+          I am Abdullah Munawar, a passionate full-stack developer who loves turning
           complex problems into intuitive, user-friendly web experiences. I specialize
           in building responsive web applications using React.js, with a strong
           foundation in JavaScript, WordPress, and modern UI/UX practices. With a
